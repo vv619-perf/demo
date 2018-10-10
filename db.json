@@ -8,11 +8,5 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "userList": [
-	{"id": 1, "name": "user A", "email": "usera@gmail.com"},
-	{"id": 1, "name": "user A", "email": "usera@gmail.com"},
-	{"id": 1, "name": "user A", "email": "usera@gmail.com"},
-	{"id": 1, "name": "user A", "email": "usera@gmail.com"}
-	]  
+  ]
 }
